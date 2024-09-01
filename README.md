@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 Mining Status of Packages On NiceHash
 
 A simple Streamlit app template for you to modify!
 
